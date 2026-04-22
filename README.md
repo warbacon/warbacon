@@ -1,10 +1,12 @@
-# ¡Hola mundo! 👋
+# Hey, I'm Joaquín 👋
 
-Just a curious Computer Science student, always eager to learn. _I love Linux!_
+Computer Science student with an obsessive need for control over every single tool I use.
+A curse? A blessing? Honestly, I've stopped asking.
 
 ## 💬 Featured
 
-- ⚡ I maintain [zunder-zsh](https://github.com/Warbacon/zunder-zsh).
-- 💊 I made PowerShell suck less with my [powershell-profile](https://github.com/Warbacon/powershell-profile).
-- 🧑‍💻 I'm quite proud of my [nvim-config](https://github.com/Warbacon/nvim-config).
-- ❄️ I've gone back to NixOS. Here is my [nixos-config](https://github.com/Warbacon/nixos-config).
+- ⚡ Made [zunder-zsh](https://github.com/Warbacon/zunder-zsh) back when I used zsh. I use fish now...anyway.
+- 💊 Made PowerShell bearable with my [powershell-profile](https://github.com/Warbacon/powershell-profile).
+- 🧑‍💻 My [nvim-config](https://github.com/Warbacon/nvim-config) is my most actively maintained project. It's not even public-facing. I don't know what's wrong with me.
+- 🌲 Made [pino.nvim](https://github.com/warbacon/pino.nvim), a Neovim colorscheme inspired by Rosé Pine.
+- ❄️ Using NixOS. Send help. [nixos-config](https://github.com/Warbacon/nixos-config).
